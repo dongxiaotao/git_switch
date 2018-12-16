@@ -1,2 +1,1 @@
 # git-command
-add text
